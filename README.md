@@ -6,12 +6,12 @@ Python3.11.0
 
 ### Commands :
 
-1- git clone https://github.com/cyberfantics/FanticsAttacker
-2- sudo pip install pyfiglet
-3- sudo pip install lib-platform
-4- sudo pip install webbrowser
+1- git clone https://github.com/cyberfantics/FanticsAttacker</br>
+2- sudo pip install pyfiglet</br>
+3- sudo pip install lib-platform</br>
+4- sudo pip install webbrowser</br>
 
 ### Running Commands
-1- cd FanticsAttacker
-2- chmod +x main.py
+1- cd FanticsAttacker</br>
+2- chmod +x main.py</br>
 3- python main.py 
